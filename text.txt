@@ -1,0 +1,4 @@
+from: aku@email.com
+for : yeah
+from: you@email.com
+from: whoever@email.com
